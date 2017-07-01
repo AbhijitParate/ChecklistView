@@ -2,7 +2,7 @@
 A simple checklist view featuring edit, delete, rearrange items.
 Also converts to ArrayList of items and JSON.
 
-![ChecklistView](screenshots/Checklistview.gif =250x)
+<img src="screenshots/Checklistview.gif" alt="ChecklistView" height="1024" width="576">
 
 ## Gradle
 ```
@@ -25,5 +25,5 @@ dependencies {
 ```
 
 ## Customization
-![ChecklistView](screenshots/CheckListView_Customization.PNG =250x)
+![ChecklistView](screenshots/CheckListView_Customization.PNG)
 
